@@ -128,4 +128,4 @@ If you find a bug or have a suggestion, feel free to open an issue or just reach
 
 ## License
 
-MIT — use it, fork it, build on it. Just don't forget where you got it from. 😄
+MIT - use it, fork it, build on it. Just don't forget where you got it from. 😄
