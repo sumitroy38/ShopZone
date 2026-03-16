@@ -1,4 +1,4 @@
-# ShopZone — Multi-Category E-Commerce App
+# ShopZone - Multi-Category E-Commerce App
 
 > Built with React · Hosted on GitHub Pages · Made with ☕ and a lot of `npm install`
 
