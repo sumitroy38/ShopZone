@@ -117,10 +117,10 @@ No Tailwind, no Redux, no unnecessary complexity — just React and CSS doing th
 
 ## Author
 
-**Sumit** — Curious Mind
+**Sumit** - Curious Mind
 
 - GitHub → [@sumitroy38](https://github.com/sumitroy38)
-- Project Link → [github.com/sumitroy38/ShopZone](https://github.com/sumitroy38/ShopZone)
+- Project Link → [ShopZone](https://github.com/sumitroy38/ShopZone)
 
 If you find a bug or have a suggestion, feel free to open an issue or just reach out.
 
