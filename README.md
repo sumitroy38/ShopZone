@@ -115,17 +115,6 @@ No Tailwind, no Redux, no unnecessary complexity — just React and CSS doing th
 
 ---
 
-## Roadmap
-
-- [ ] Cart drawer with full checkout flow
-- [ ] Backend integration (Node.js / Express + PostgreSQL)
-- [ ] User profile & order history page
-- [ ] Product reviews and star ratings
-- [ ] Wishlist / saved items
-- [ ] Admin dashboard for managing products
-
----
-
 ## Author
 
 **Sumit** — Curious Mind
