@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShopZone/static/css/main.f58a0e76.css",
+    "main.js": "/ShopZone/static/js/main.0f668561.js",
+    "index.html": "/ShopZone/index.html",
+    "main.f58a0e76.css.map": "/ShopZone/static/css/main.f58a0e76.css.map",
+    "main.0f668561.js.map": "/ShopZone/static/js/main.0f668561.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58a0e76.css",
+    "static/js/main.0f668561.js"
+  ]
+}
