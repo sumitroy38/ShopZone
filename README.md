@@ -102,4 +102,4 @@ Opens at `http://localhost:3000`.
 
 ## License
 
-MIT — use it, fork it, build on it. Just don't forget where you got it from. 😄
+MIT : use it, fork it, build on it. Just don't forget where you got it from. 😄
